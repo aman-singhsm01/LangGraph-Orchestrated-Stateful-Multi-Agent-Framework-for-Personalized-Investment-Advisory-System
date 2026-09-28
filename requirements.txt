@@ -1,0 +1,12 @@
+langgraph
+langchain-google-genai
+langchain-community
+python-dotenv
+yfinance
+tavily-python
+chromadb
+pandas
+pdfplumber
+tensorflow
+scikit-learn
+pydantic
